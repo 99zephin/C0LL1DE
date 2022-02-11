@@ -9,10 +9,6 @@
 - Accessing and modifying memory from games
 - Kernel IOCTL communication driver
 
-## 📫 If you would like to reach out
-- Discord : zephin#8282
-- Twitter : zeph1n
-
 <!--
 **cazzwastaken/cazzwastaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -26,4 +22,9 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+## 📫 If you would like to reach out
+- Discord : zephin#8282
+- Twitter : zeph1n
+
 -->
