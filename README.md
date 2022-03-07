@@ -5,9 +5,8 @@
 - 17 🇵🇱
 
 ## 🔭 Currently Working on
-- A program allowing you to change hardware serial ID's from usermode
-- Accessing and modifying memory from games
-- Kernel IOCTL communication driver
+- Manipulating game memory from kernel
+- Kernel Driver to communicate to user mode
 
 <!--
 **cazzwastaken/cazzwastaken** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
